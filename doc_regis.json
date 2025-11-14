@@ -1,0 +1,20 @@
+[
+  {
+    "documento_paciente": "100",
+    "nombre_paciente": "daniela criollo",
+    "observaciones": "ecg normal",
+    "doctor": "Doctor"
+  },
+  {
+    "documento_paciente": "9087",
+    "nombre_paciente": "carolina",
+    "observaciones": "ecg anormal, se recomienda seguimeinto",
+    "doctor": "Doctor"
+  },
+  {
+    "documento_paciente": "112233",
+    "nombre_paciente": "jose rios",
+    "observaciones": "Debe de remitirse a consulta",
+    "doctor": "Doctor"
+  }
+]

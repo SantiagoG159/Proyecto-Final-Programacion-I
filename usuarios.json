@@ -1,0 +1,78 @@
+{
+    "administrador": [
+        {
+            "nombre_completo": "sofia lopez",
+            "documento": "1081",
+            "telefono": "3004567890",
+            "rol": "administrador",
+            "edad": 35,
+            "peso": 72,
+            "usuario": "sofia lopez",
+            "contraseña": "1081"
+        }
+    ],
+    "doctor": [
+        {
+            "nombre_completo": "maria lema",
+            "documento": "23",
+            "telefono": "12",
+            "rol": "doctor",
+            "edad": 23,
+            "peso": 56.0,
+            "usuario": "maria lema",
+            "contraseña": "23"
+        },
+        {
+            "nombre_completo": "Antonella Franco",
+            "documento": "9838",
+            "telefono": "3011",
+            "rol": "doctor",
+            "edad": 26,
+            "peso": 67.0,
+            "usuario": "Antonella Franco",
+            "contraseña": "9838"
+        }
+    ],
+    "paciente": [
+        {
+            "nombre_completo": "alejandra tulcan",
+            "documento": "987",
+            "telefono": "301",
+            "rol": "paciente",
+            "edad": 27,
+            "peso": 56.0,
+            "usuario": "alejandra tulcan",
+            "contraseña": "987"
+        },
+        {
+            "nombre_completo": "carolina",
+            "documento": "9087",
+            "telefono": "345",
+            "rol": "paciente",
+            "edad": 23,
+            "peso": 78.0,
+            "usuario": "carolina",
+            "contraseña": "9087"
+        },
+        {
+            "nombre_completo": "daniela criollo",
+            "documento": "100",
+            "telefono": "21",
+            "rol": "paciente",
+            "edad": 21,
+            "peso": 50.0,
+            "usuario": "daniela criollo",
+            "contraseña": "100"
+        },
+        {
+            "nombre_completo": "jose rios",
+            "documento": "112233",
+            "telefono": "023",
+            "rol": "paciente",
+            "edad": 45,
+            "peso": 76.0,
+            "usuario": "jose rios",
+            "contraseña": "112233"
+        }
+    ]
+}
